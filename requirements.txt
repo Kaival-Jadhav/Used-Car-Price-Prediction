@@ -1,0 +1,10 @@
+flask
+flask_jwt_extended
+requests
+gunicorn
+pymongo
+numpy
+pandas
+scikit-learn
+streamlit
+werkzeug
